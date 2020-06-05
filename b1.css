@@ -1,0 +1,66 @@
+.navbar-brand{
+    color: #1e7e34 !important;
+
+}
+.dropdown-menu a
+{color: #1e7e34 !important;
+
+}
+
+.nav-link{
+    color: #1e7e34 !important;
+
+}
+hr
+{
+    border: 2px solid red;
+}
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Baloo Thambi 2', cursive;
+}
+#gallery
+{
+    padding-top: 20px;
+}
+a{
+    color: #ffc107 !important;
+}
+.socialmedialinks
+{
+   height: auto;
+}
+
+
+#footer-li li{
+    display: inline;
+    padding: 1%;
+}
+#join-us
+{
+    width: 440px;
+    margin: auto;
+
+}
+#call-now
+{
+    width: 440px;
+    margin: auto;
+
+}
+.GOTOTOP{
+    position: fixed;
+    bottom:10px;
+    right: 30px;
+
+}
+.GOTOTOP img{
+    width: 50px;
+}
+.GOTOTOP img:hover{
+    width: 60px;
+}
+
+
